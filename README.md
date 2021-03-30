@@ -1,2 +1,2 @@
-# Led_pure_c
-Blinking LED using pure C code in arduino 
+# Led_blinky_starter
+Blinking LED with driver level code using registers in arduino 
